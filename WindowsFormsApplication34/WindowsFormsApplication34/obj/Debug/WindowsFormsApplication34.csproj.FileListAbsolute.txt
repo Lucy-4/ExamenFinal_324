@@ -1,0 +1,21 @@
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.csprojResolveAssemblyReference.cache
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.Form1.resources
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.Form2.resources
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.Properties.Resources.resources
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.csproj.GenerateResource.Cache
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\WindowsFormsApplication34.exe.config
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\WindowsFormsApplication34.exe
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\WindowsFormsApplication34.pdb
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.exe
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.pdb
+C:\Users\LUCY\Documents\324\EXAMEN FINAL\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.csproj.AssemblyReference.cache
+C:\Users\LUCY\Documents\324\EXAMEN FINAL\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.Form1.resources
+C:\Users\LUCY\Documents\324\EXAMEN FINAL\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.Form2.resources
+C:\Users\LUCY\Documents\324\EXAMEN FINAL\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.Properties.Resources.resources
+C:\Users\LUCY\Documents\324\EXAMEN FINAL\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.csproj.GenerateResource.cache
+C:\Users\LUCY\Documents\324\EXAMEN FINAL\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.csproj.CoreCompileInputs.cache
+C:\Users\LUCY\Documents\324\EXAMEN FINAL\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.exe
+C:\Users\LUCY\Documents\324\EXAMEN FINAL\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.pdb
+C:\Users\LUCY\Documents\324\EXAMEN FINAL\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\WindowsFormsApplication34.exe.config
+C:\Users\LUCY\Documents\324\EXAMEN FINAL\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\WindowsFormsApplication34.exe
+C:\Users\LUCY\Documents\324\EXAMEN FINAL\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\WindowsFormsApplication34.pdb
